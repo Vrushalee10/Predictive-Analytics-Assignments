@@ -4,7 +4,7 @@ This repository contains multiple assignments completed for the **MGS 616 - Pred
 ## 📂 Assignments Overview
 | Assignment | Topic | Techniques Used |
 |------------|-----------------|--------------------------------|
-| [Assignment 1](Assignment_1_Exploratory Data Analysis (EDA)) | Exploratory Data Analysis (EDA) | Data Visualization, Histograms, Boxplots, Scatterplots, Outlier Detection |
+| [Assignment 1](Assignment_1_EDA/) | Exploratory Data Analysis (EDA) | Data Visualization, Histograms, Boxplots, Scatterplots, Outlier Detection |
 | [Assignment 2](Assignment_2_Classification/) | Classification | Logistic Regression, Decision Trees, SVM |
 | [Assignment 3](Assignment_3_Regression/) | Regression | Multiple Linear Regression, Feature Selection, Model Evaluation |
 | [Assignment 4](Assignment_4_TimeSeries/) | Time Series Forecasting | ARIMA, Exponential Smoothing |

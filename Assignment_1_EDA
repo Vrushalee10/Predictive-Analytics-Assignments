@@ -1,0 +1,62 @@
+### **📊 Assignment 1: Exploratory Data Analysis (EDA)**
+This assignment focuses on **visualizing and analyzing Airbnb listing data** to understand the distribution of key variables and identify potential data transformation needs.
+
+---
+
+## **📌 Dataset Overview**
+- **Dataset:** Airbnb listings in Boston, MA
+- **Size:** 3,583 records
+- **Attributes:** Host information, property characteristics, pricing, and reviews
+
+---
+
+## **📌 Techniques Used**
+- **Histograms**: Price and Bedrooms distributions
+- **Boxplots**: Beds, Price vs. Beds
+- **Scatterplots**: Price vs. Review Scores
+- **Outlier Detection**: Identifying extreme values in listings
+- **Data Transformation Considerations**
+
+---
+
+## **📊 Key Findings**
+- **Price Distribution:** Highly skewed; many listings are priced between **$0 - $300**, but some outliers exist.
+- **Beds Analysis:** The **majority of listings have 1-3 beds**, but extreme cases (up to **16 beds**) are present.
+- **Price vs. Beds Relationship:** A **weak positive correlation** observed, but prices fluctuate unexpectedly for listings with more than **7 beds**.
+- **Review Scores vs. Price:** No strong correlation; high-rated properties exist at both **low and high prices**.
+
+---
+
+## **🚀 How to Run**
+1. Navigate to this folder:
+   ```sh
+   cd Assignment_1_Airbnb_EDA
+   ```
+2. Open the Jupyter Notebook:
+   ```sh
+   jupyter notebook notebooks/Airbnb_EDA.ipynb
+   ```
+3. Run all cells to reproduce the analysis.
+
+---
+
+## **📂 Repository Structure**
+```
+Assignment_1_Airbnb_EDA/
+│── data/                   
+│   ├── airbnb_boston.csv
+│── notebooks/              
+│   ├── Airbnb_EDA.ipynb
+│── reports/                
+│   ├── MGS_616_HW1_Group1.docx
+│   ├── MGS_616_HW1_Report.pdf
+│── README.md               # This file
+```
+
+---
+
+## **📜 Contributors**
+- **Vrushali Panjwani**
+- **Sarvesh Surve**
+
+

@@ -10,7 +10,7 @@ This repository contains multiple assignments completed for the **MGS 616 - Pred
 | [Assignment 4](Assignment_4_TimeSeries/) | Time Series Forecasting | ARIMA, Exponential Smoothing |
 | [Assignment 5](Assignment_5_NLP/) | Natural Language Processing | Sentiment Analysis, Text Preprocessing |
 | [Assignment 6](Assignment_6_DecisionTrees/) | Decision Trees & Random Forest | Tree-Based Models, Feature Importance |
-| [Assignment 7](Assignment_7_DeepLearning/) | Deep Learning | Neural Networks, TensorFlow, CNNs |
+| [Assignment 7](Assignment_7_Neural_Network/) | Neural Networks |Backpropagation, Weight Adjustment, Model Training |
 
 ## 📌 Technologies Used
 - **Python** (pandas, numpy, scikit-learn, matplotlib, seaborn)
